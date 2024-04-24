@@ -33,7 +33,7 @@ while 1:
                                                            
  
     Sms: {}                         
-    Ara: {}              {}by {}@Leckone\n  
+    Ara: {}              {}by {}@ardaerturkk\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), len(servisler_call), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
         menu = (input(Fore.LIGHTMAGENTA_EX + " 1- Send SMS \n 2- Call \n 3- Katkıda Bulunanlar\n 4- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
