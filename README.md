@@ -8,7 +8,7 @@ It won't cause any harm, it just acts like an "SMS Bomber" which is generally us
 
 ```console
 git clone https://gitlab.com/ardaerturkk/lecksms.git
-cd Enough
+cd LeckSMS
 pip3 install -r requirements.txt
 python3 enough.py
 ```
