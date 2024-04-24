@@ -10,7 +10,7 @@ It won't cause any harm, it just acts like an "SMS Bomber" which is generally us
 git clone https://gitlab.com/ardaerturkk/lecksms.git
 cd LeckSMS
 pip3 install -r requirements.txt
-python3 enough.py
+python3 LeckSMS.py
 ```
 <h2>Important Notice</h2>
 
