@@ -1,6 +1,6 @@
 # LeckSMS
 
-LeckSMS is an application that allows you to test the vulnerability of the SMS systems on your own websites.
+LeckSMS is a terminal based application that allows you to test the vulnerability of the SMS systems on your own websites.
 It won't cause any harm, it just acts like an "SMS Bomber" which is generally used for social-engineering attacks.
 
 
