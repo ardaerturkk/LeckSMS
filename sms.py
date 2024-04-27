@@ -40,6 +40,9 @@ class SendSms():
             print(f"{Fore.LIGHTGREEN_EX}[+] {Style.RESET_ALL}Başarılı! {self.phone} --> dsmartgo.com.tr")
             self.adet += 1
 
+#You can add multiple blocks of code, to test multiple websites
+#Change the url and other details according to the website that you want to test.
+
     # dsmartgo.com.tr
     # def Dsmartgo(self):
       #  dsmartgo = requests.post("https://www.dsmartgo.com.tr/web/account/checkphonenumber", data={
