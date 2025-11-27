@@ -7,7 +7,7 @@ It won't cause any harm, it just acts like an "SMS Bomber" which is generally us
 <h2>Setup</h2>
 
 ```console
-git clone https://gitlab.com/ardaerturkk/lecksms.git
+git clone https://github.com/ardaerturkk/lecksms.git
 cd LeckSMS
 pip3 install -r requirements.txt
 python3 LeckSMS.py
